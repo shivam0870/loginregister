@@ -1,3 +1,6 @@
+To run frontend use command - npm start
+To run backend use command - npm run dev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
